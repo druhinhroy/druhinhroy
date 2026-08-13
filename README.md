@@ -29,7 +29,7 @@ Verilog · SystemVerilog · cocotb · Icarus Verilog · GTKWave · AMD Vivado ·
 
 ## Away from the keyboard
 
-President of [Texas Guadaloop](https://www.texasguadaloop.com/), UT Austin's hyperloop team — 100+ members across engineering, business, and research. We took first place in both Design Only Engineering and Design Only Hyperloop Week at European Hyperloop Week 2026 in Groningen. Before that I led the power electronics team, designing 60–600 V high-voltage systems for the pod.
+President of [Texas Guadaloop](https://www.txguadaloop.org/), UT Austin's hyperloop team — 100+ members across engineering, business, and research. We took first place in both Design Only Engineering and Design Only Hyperloop Week at European Hyperloop Week 2026 in Groningen. Before that I led the power electronics team, designing 60–600 V high-voltage systems for the pod.
 
 I also founded [Hyperloop Open](https://hyperloopopen.org), a Texas nonprofit building an inaugural collegiate hyperloop competition in Austin for May 2027.
 
