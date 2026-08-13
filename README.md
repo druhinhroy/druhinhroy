@@ -21,7 +21,7 @@ Progress is committed as it happens, including the parts that don't work yet.
 
 ## Other work
 
-**[Multi-Mode Programmable Processor](https://github.com/druhinhroy/basys3-processor)** — a programmable processor in Verilog on a Basys3 FPGA, partitioned into a custom datapath and controller FSM specified via High-Level State Machine formalism. Four operating modes at 10 ms resolution, verified in simulation before synthesis and hardware bring-up.
+**Multi-Mode Programmable Processor** — a programmable processor in Verilog on a Basys3 FPGA, partitioned into a custom datapath and controller FSM specified via High-Level State Machine formalism. Four operating modes at 10 ms resolution, verified in simulation before synthesis and hardware bring-up.
 
 ## Toolchain
 
